@@ -15,4 +15,4 @@ All **Program** features are used as *Program.--()*.
 
 
 ## Installing
-Uhhh.... This wasn't made for use... kinda just s project of mine, [Hand Tracking](https://github.com/Connor12858/Hand-Tracking) is a project currently under development and something you can use!! - When Completed
+Uhhh.... This wasn't made for use... kinda just a project of mine, [Hand Tracking](https://github.com/Connor12858/Hand-Tracking) is a project currently under development and something you can use!! - When Completed
