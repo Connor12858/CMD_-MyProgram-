@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
+    <Version>13.6</Version>
+    <Authors>D3V1L</Authors>
+    <Company>D3V1L</Company>
+    <Description>My custom Terminal for managing hacks</Description>
+    <Copyright>D3V1L 2021</Copyright>
+    <Product>Terminal</Product>
+    <PackageId>Terminal</PackageId>
+    <AssemblyName>Terminal</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EASendMail" Version="7.7.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EASendMail">
+      <HintPath>..\..\..\.nuget\packages\easendmail\7.7.0.6\lib\netcoreapp2.1\EASendMail.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
