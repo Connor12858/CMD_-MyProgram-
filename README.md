@@ -11,4 +11,8 @@ It's as simple as run it and type something random for the first time!
 
 All **Program** features are used as *Program.--()*. 
 
-**System** features are used one at a time based on the level printed in the **Program.Help()** menu.
+**System** features are used one at a time based on the level printed in the **Program.Help()** menu. Example would be like *System Directory* -> `Directoy Menu` -> *cd* -> `CD Menu`
+
+
+## Installing
+Uhhh.... This wasn't made for use... kinda just s project of mine, [Hand Tracking](https://github.com/Connor12858/Hand-Tracking) is a project currently under development and something you can use!! - When Completed
